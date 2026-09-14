@@ -1,4 +1,4 @@
-# atm-machine-
+# ATM machine
 learn basic code of atm in pytnon .
 <br>
 Author of this code is raj Singh .
